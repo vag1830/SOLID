@@ -1,0 +1,7 @@
+1. A project on refactoring / clean code
+2. Write on paradigms
+	quote: - Each of the paradigms removes capabilities from the developers -
+	* Structured programming
+	* Object Oriented Programming
+	* Functional programming
+3. A project on design patterns with explanations and examples on each pattern.

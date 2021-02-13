@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="LiskovSubstitutionPrinciple\" />
+    <Folder Include="InterfaceSegregationPrinciple\" />
+    <Folder Include="DependencyInversionPrinciple\" />
+    <Folder Include="OpenClosedPrinciple\" />
+  </ItemGroup>
+
+</Project>

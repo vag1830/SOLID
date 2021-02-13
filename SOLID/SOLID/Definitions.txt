@@ -1,0 +1,10 @@
+﻿Module:
+
+The SOLID principles tell us how to arrange our functions and data structures into classes, and how those classes should be interconnected.
+The use of the word "Class" does not imply that these principles are only applicable to object-oriented software.
+A class is simply a coupled grouping of functions and data. Every software system has such groupings, whether they are called classes or not.
+The SOLID principles apply to those groupings.
+
+A module is a grouping of functions and data. A module defines an interface which is used for communication with the rest of the environement.
+Typically in object-oriented context, a module refers to a "Class" but that is not necessary for other paradigms.
+Methods and functions could qualify as such groupings. They have internal state and pieces of code that alter that state to produce a result.
