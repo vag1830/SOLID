@@ -5,7 +5,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="LiskovSubstitutionPrinciple\" />
     <Folder Include="InterfaceSegregationPrinciple\" />
     <Folder Include="DependencyInversionPrinciple\" />
   </ItemGroup>

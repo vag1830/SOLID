@@ -1,4 +1,10 @@
 ﻿namespace SOLID.SingleResponsibilityPrinciple.example1
 {
-    public class Dependency { }
+    public class Dependency
+    {
+        public Dependency()
+        {
+
+        }
+    }
 }

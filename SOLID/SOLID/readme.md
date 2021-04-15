@@ -33,8 +33,14 @@ We might work in an old project. We might interruct with code that is there alre
 that someone else has already written, rendering it unrealistic to apply those principles.
 
 In any case if we know them and we have them in our mind they will for sure guide
-us to better implementations and and help us identify potential problems in our codebase.
+us to better implementations and help us identify potential problems in our codebase.
 We can also use them to argue on whether a particular approach/implementation is better or not than
 an other one.
+
+* Readability
+* Extensibility
+* Maintenability
+* Testability
+* Security
 
 

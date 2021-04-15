@@ -1,4 +1,4 @@
-﻿### *S* - Single Responsibility Principle (known as SRP)
+﻿### *S* - Single Responsibility Principle (*SRP*)
 
 ##### History
 
@@ -14,6 +14,9 @@
 2. > A module should have one, and only one, reason to change.
 3. > A module should be responsible to one, and only one, actor.
 
+###### Quote by Uncle Bob I found just now :
+> Gather together things that change for the same reasons.  
+> Separate things that change for different reasons.
 
 ###### I ask myself:
 * Is this module responsible to do what this piece of code does?

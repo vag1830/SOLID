@@ -2,7 +2,7 @@
 
 namespace SOLID.SingleResponsibilityPrinciple.example1
 {
-    public class Repository
+    public class Repository : IRepository
     {
         private readonly Dependency _dependency;
 
