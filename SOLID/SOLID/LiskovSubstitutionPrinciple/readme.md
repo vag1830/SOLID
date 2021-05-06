@@ -20,15 +20,17 @@ Barbara Liskov also wrote the following as a way to define subtypes
 The above is not so easy to understand. I think it describes this 
 
 ```C#
+// T
 class Base {
 	public Do() {}
 }
 
+// S
 class Sub : Base {
 	public override Do() {}
 }
 
-
+// P
 class Program {
 	DoSomething(Base obj) {
 		obj.Do();
@@ -44,5 +46,19 @@ program.DoSomething(new Base());
 LSP states that derived classes should be able to extend their base classes without 
 changing their behavior.
 
+
+#### Before the Examples... :)
+
+A violation can have dramatic impact. It might be detected late making it very difficult to fix.
+
+**Difficult to protect against a violation.**
+
+Unfortunately, there is no easy way to enforce this principle. 
+The compiler only checks the structural rules defined the language, but it can’t enforce a specific behavior.
+
+Implement own checks to ensure that the code does not violate the Liskov Substitution Principle.
+Code reviews and unit tests can help a lot. 
+
+In any case being aware of this principle and the problems a violation might cause is a good start.
 
 #### Examples...

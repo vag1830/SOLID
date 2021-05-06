@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 namespace SOLID.LiskovSubstitutionPrinciple.example2.TheBad
 {
