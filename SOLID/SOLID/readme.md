@@ -43,4 +43,10 @@ an other one.
 * Testability
 * Security
 
+## Recources
+* Clean Code: https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882/ref=sr_1_1?dchild=1&keywords=clean+code&qid=1620817579&s=books&sr=1-1
+* Clean Architecture: https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164
+
+
+
 
